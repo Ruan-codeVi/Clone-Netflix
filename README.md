@@ -4,7 +4,8 @@
 - Recreating the interface of the main streaming service on the world market.
 Screen
 
-##  Screen NetFlix!
+##   Screen NetFlix
+![Screen](/src/assets/NetFlix.gif)
 
 ##  Purpose of the project
 
