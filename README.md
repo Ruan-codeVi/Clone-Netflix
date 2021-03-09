@@ -1,5 +1,5 @@
 # Clone-Netflix
-
+![GitHub language count](https://img.shields.io/github/languages/count/Ruan-codeVi/Clone-Netflix?color=%23FB2612&style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/Ruan-codeVi/Clone-Netflix?color=%23FB2612&style=for-the-badge)
 ##  Description
 - Recreating the interface of the main streaming service on the world market.
 Screen
